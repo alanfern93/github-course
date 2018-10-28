@@ -2,6 +2,6 @@
 
 Este é um repositorio teste para ensinar como o Git funciona
 
-Saiba mais no [willianjusten.com.br](http://willianjusten.com.br
+Saiba mais no [willianjusten.com.br](http://willianjusten.com.br)
 
-mais uma modificacao)
+Gostou do curso? Quer mais? Ajude com uma doaçao, ate um café é válido
